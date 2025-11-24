@@ -1,4 +1,4 @@
-###Task Management Application
+##Task Management Application
 
 # Overview
 A command-line task management system built in Python that helps users organize, track, and manage their daily tasks efficiently. The application provides comprehensive task tracking with priority management, status monitoring, and productivity analytics.
